@@ -17,6 +17,9 @@ Aula 06
 ok
 
 Aula 07
+ok
+
+Como deixa responsivo
 
 Site de ícones:
 
