@@ -23,7 +23,7 @@ Como deixa responsivo
 ok
 
 Como criar um menu mobile lateral
-
+Refazer aula 
 
 
 
@@ -31,3 +31,10 @@ Como criar um menu mobile lateral
 Site de ícones:
 
 - https://icons.getbootstrap.com/
+
+
+<i class="bi bi-x-circle"></i>
+
+
+
+
